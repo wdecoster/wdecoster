@@ -9,3 +9,4 @@ Check out [pathstr.bioinf.be](https://pathstr.bioinf.be/) for an example of my w
 - 💻 [LinkedIn](https://www.linkedin.com/in/wouter-de-coster-b0b28082/)
 - 🌐 [Bluesky](https://bsky.app/profile/wdecoster.bsky.social)
 - ♟️ [Chess.com/wdecoster](https://www.chess.com/member/wdecoster)
+- 📰 [Google Scholar](https://scholar.google.com/citations?user=V_uQQnAAAAAJ&hl=en)
