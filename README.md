@@ -2,7 +2,7 @@
 
 **Computational Geneticist & Software Developer**
 
-I am a postdoctoral researcher at the VIB-UAntwerp Center for Molecular Neurology. I specialize in long-read sequencing, tandem repeats, and structural variation, focusing on genetic causes of neurodegenerative brain diseases.  
+I am an assistant professor at the VIB-UAntwerp Center for Molecular Neurology. I specialize in long-read sequencing, tandem repeats, and structural variation, focusing on genetic causes of neurodegenerative brain diseases.  
 My programming toolkit includes Python and Rust, and I am passionate about crafting insightful data visualizations, often with Plotly or Dash.  
 Check out [pathstr.bioinf.be](https://pathstr.bioinf.be/) for an example of my work in this area.
 
